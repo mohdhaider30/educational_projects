@@ -1,0 +1,2 @@
+E:\Programms\C#\school_college_projects\Student_Management_I\bin\Debug\Student_Management_I.exe.config
+E:\Programms\C#\school_college_projects\STUDENT_MANAGEMENT_IN_CSHARP_MYSQL\Student_Management_I\bin\Debug\Student_Management_I.exe.config
